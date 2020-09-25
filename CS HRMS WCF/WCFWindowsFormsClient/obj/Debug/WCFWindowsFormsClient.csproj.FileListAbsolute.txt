@@ -1,0 +1,10 @@
+C:\Users\rch9\source\repos\WCFEmpService\WCFWindowsFormsClient\bin\Debug\WCFWindowsFormsClient.exe.config
+C:\Users\rch9\source\repos\WCFEmpService\WCFWindowsFormsClient\bin\Debug\WCFWindowsFormsClient.exe
+C:\Users\rch9\source\repos\WCFEmpService\WCFWindowsFormsClient\bin\Debug\WCFWindowsFormsClient.pdb
+C:\Users\rch9\source\repos\WCFEmpService\WCFWindowsFormsClient\obj\Debug\WCFWindowsFormsClient.csprojAssemblyReference.cache
+C:\Users\rch9\source\repos\WCFEmpService\WCFWindowsFormsClient\obj\Debug\WCFWindowsFormsClient.Form1.resources
+C:\Users\rch9\source\repos\WCFEmpService\WCFWindowsFormsClient\obj\Debug\WCFWindowsFormsClient.Properties.Resources.resources
+C:\Users\rch9\source\repos\WCFEmpService\WCFWindowsFormsClient\obj\Debug\WCFWindowsFormsClient.csproj.GenerateResource.cache
+C:\Users\rch9\source\repos\WCFEmpService\WCFWindowsFormsClient\obj\Debug\WCFWindowsFormsClient.csproj.CoreCompileInputs.cache
+C:\Users\rch9\source\repos\WCFEmpService\WCFWindowsFormsClient\obj\Debug\WCFWindowsFormsClient.exe
+C:\Users\rch9\source\repos\WCFEmpService\WCFWindowsFormsClient\obj\Debug\WCFWindowsFormsClient.pdb

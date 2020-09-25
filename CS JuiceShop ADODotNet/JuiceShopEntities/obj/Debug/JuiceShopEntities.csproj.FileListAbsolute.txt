@@ -1,0 +1,6 @@
+C:\Users\rch9\source\repos\ADOEmpLib\JuiceShopEntities\bin\Debug\JuiceShopEntities.dll
+C:\Users\rch9\source\repos\ADOEmpLib\JuiceShopEntities\bin\Debug\JuiceShopEntities.pdb
+C:\Users\rch9\source\repos\ADOEmpLib\JuiceShopEntities\obj\Debug\JuiceShopEntities.csprojAssemblyReference.cache
+C:\Users\rch9\source\repos\ADOEmpLib\JuiceShopEntities\obj\Debug\JuiceShopEntities.csproj.CoreCompileInputs.cache
+C:\Users\rch9\source\repos\ADOEmpLib\JuiceShopEntities\obj\Debug\JuiceShopEntities.dll
+C:\Users\rch9\source\repos\ADOEmpLib\JuiceShopEntities\obj\Debug\JuiceShopEntities.pdb

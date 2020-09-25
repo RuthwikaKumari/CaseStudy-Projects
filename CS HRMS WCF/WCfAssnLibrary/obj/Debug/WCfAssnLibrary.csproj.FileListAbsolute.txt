@@ -1,0 +1,15 @@
+C:\Users\rch9\source\repos\WCFEmpService\WCfAssnLibrary\bin\Debug\WCfAssnLibrary.dll.config
+C:\Users\rch9\source\repos\WCFEmpService\WCfAssnLibrary\bin\Debug\WCfAssnLibrary.dll
+C:\Users\rch9\source\repos\WCFEmpService\WCfAssnLibrary\bin\Debug\WCfAssnLibrary.pdb
+C:\Users\rch9\source\repos\WCFEmpService\WCfAssnLibrary\bin\Debug\EntityFramework.dll
+C:\Users\rch9\source\repos\WCFEmpService\WCfAssnLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rch9\source\repos\WCFEmpService\WCfAssnLibrary\bin\Debug\EntityFramework.xml
+C:\Users\rch9\source\repos\WCFEmpService\WCfAssnLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rch9\source\repos\WCFEmpService\WCfAssnLibrary\obj\Debug\WCfAssnLibrary.csprojAssemblyReference.cache
+C:\Users\rch9\source\repos\WCFEmpService\WCfAssnLibrary\obj\Debug\WCfAssnLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rch9\source\repos\WCFEmpService\WCfAssnLibrary\obj\Debug\WCfAssnLibrary.csproj.CopyComplete
+C:\Users\rch9\source\repos\WCFEmpService\WCfAssnLibrary\obj\Debug\WCfAssnLibrary.dll
+C:\Users\rch9\source\repos\WCFEmpService\WCfAssnLibrary\obj\Debug\WCfAssnLibrary.pdb
+C:\Users\rch9\source\repos\WCFEmpService\WCfAssnLibrary\bin\Debug\AssnDAL_Lib.dll
+C:\Users\rch9\source\repos\WCFEmpService\WCfAssnLibrary\bin\Debug\AssnDAL_Lib.pdb
+C:\Users\rch9\source\repos\WCFEmpService\WCfAssnLibrary\bin\Debug\AssnDAL_Lib.dll.config

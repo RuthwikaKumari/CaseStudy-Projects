@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="EmpService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:51314/EmpService.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:51314/EmpService.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:51314/EmpService.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/EntityLayer" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IEmpService_GetAllEmps_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllEmps" />
+  </wsdl:message>
+  <wsdl:message name="IEmpService_GetAllEmps_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllEmpsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmpService_AddEmployee_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddEmployee" />
+  </wsdl:message>
+  <wsdl:message name="IEmpService_AddEmployee_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddEmployeeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmpService_DeleteEmployee_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteEmployee" />
+  </wsdl:message>
+  <wsdl:message name="IEmpService_DeleteEmployee_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteEmployeeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmpService_UpdateEmpbyEcode_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateEmpbyEcode" />
+  </wsdl:message>
+  <wsdl:message name="IEmpService_UpdateEmpbyEcode_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateEmpbyEcodeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IEmpService_GetEmpbyEcode_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmpbyEcode" />
+  </wsdl:message>
+  <wsdl:message name="IEmpService_GetEmpbyEcode_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetEmpbyEcodeResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IEmpService">
+    <wsdl:operation name="GetAllEmps">
+      <wsdl:input wsaw:Action="http://tempuri.org/IEmpService/GetAllEmps" message="tns:IEmpService_GetAllEmps_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IEmpService/GetAllEmpsResponse" message="tns:IEmpService_GetAllEmps_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddEmployee">
+      <wsdl:input wsaw:Action="http://tempuri.org/IEmpService/AddEmployee" message="tns:IEmpService_AddEmployee_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IEmpService/AddEmployeeResponse" message="tns:IEmpService_AddEmployee_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteEmployee">
+      <wsdl:input wsaw:Action="http://tempuri.org/IEmpService/DeleteEmployee" message="tns:IEmpService_DeleteEmployee_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IEmpService/DeleteEmployeeResponse" message="tns:IEmpService_DeleteEmployee_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateEmpbyEcode">
+      <wsdl:input wsaw:Action="http://tempuri.org/IEmpService/UpdateEmpbyEcode" message="tns:IEmpService_UpdateEmpbyEcode_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IEmpService/UpdateEmpbyEcodeResponse" message="tns:IEmpService_UpdateEmpbyEcode_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEmpbyEcode">
+      <wsdl:input wsaw:Action="http://tempuri.org/IEmpService/GetEmpbyEcode" message="tns:IEmpService_GetEmpbyEcode_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IEmpService/GetEmpbyEcodeResponse" message="tns:IEmpService_GetEmpbyEcode_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IEmpService" type="tns:IEmpService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetAllEmps">
+      <soap:operation soapAction="http://tempuri.org/IEmpService/GetAllEmps" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddEmployee">
+      <soap:operation soapAction="http://tempuri.org/IEmpService/AddEmployee" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteEmployee">
+      <soap:operation soapAction="http://tempuri.org/IEmpService/DeleteEmployee" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateEmpbyEcode">
+      <soap:operation soapAction="http://tempuri.org/IEmpService/UpdateEmpbyEcode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEmpbyEcode">
+      <soap:operation soapAction="http://tempuri.org/IEmpService/GetEmpbyEcode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="EmpService">
+    <wsdl:port name="BasicHttpBinding_IEmpService" binding="tns:BasicHttpBinding_IEmpService">
+      <soap:address location="http://localhost:51314/EmpService.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

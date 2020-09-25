@@ -1,0 +1,15 @@
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleHost\bin\Debug\WCFConsoleHost.exe.config
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleHost\bin\Debug\WCFConsoleHost.exe
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleHost\bin\Debug\WCFConsoleHost.pdb
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleHost\bin\Debug\WCFEmpServiceLib.dll
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleHost\bin\Debug\WCFEmpServiceLib.pdb
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleHost\bin\Debug\WCFEmpServiceLib.dll.config
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleHost\obj\Debug\WCFConsoleHost.csprojAssemblyReference.cache
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleHost\obj\Debug\WCFConsoleHost.csproj.CoreCompileInputs.cache
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleHost\obj\Debug\WCFConsoleHost.csproj.CopyComplete
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleHost\obj\Debug\WCFConsoleHost.exe
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleHost\obj\Debug\WCFConsoleHost.pdb
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleHost\bin\Debug\EntityLayer.dll
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleHost\bin\Debug\ADOEmpLib.dll
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleHost\bin\Debug\EntityLayer.pdb
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleHost\bin\Debug\ADOEmpLib.pdb

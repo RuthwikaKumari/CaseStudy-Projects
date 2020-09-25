@@ -1,0 +1,6 @@
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageEntities\bin\Debug\MessageEntities.dll
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageEntities\bin\Debug\MessageEntities.pdb
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageEntities\obj\Debug\MessageEntities.csprojAssemblyReference.cache
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageEntities\obj\Debug\MessageEntities.csproj.CoreCompileInputs.cache
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageEntities\obj\Debug\MessageEntities.dll
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageEntities\obj\Debug\MessageEntities.pdb

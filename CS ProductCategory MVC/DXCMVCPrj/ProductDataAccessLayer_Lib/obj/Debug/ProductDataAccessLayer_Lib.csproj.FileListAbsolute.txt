@@ -1,0 +1,12 @@
+C:\Users\rch9\source\repos\DXCMVCPrj\ProductDataAccessLayer_Lib\bin\Debug\ProductDataAccessLayer_Lib.dll.config
+C:\Users\rch9\source\repos\DXCMVCPrj\ProductDataAccessLayer_Lib\bin\Debug\ProductDataAccessLayer_Lib.dll
+C:\Users\rch9\source\repos\DXCMVCPrj\ProductDataAccessLayer_Lib\bin\Debug\ProductDataAccessLayer_Lib.pdb
+C:\Users\rch9\source\repos\DXCMVCPrj\ProductDataAccessLayer_Lib\bin\Debug\EntityFramework.dll
+C:\Users\rch9\source\repos\DXCMVCPrj\ProductDataAccessLayer_Lib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rch9\source\repos\DXCMVCPrj\ProductDataAccessLayer_Lib\bin\Debug\EntityFramework.xml
+C:\Users\rch9\source\repos\DXCMVCPrj\ProductDataAccessLayer_Lib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rch9\source\repos\DXCMVCPrj\ProductDataAccessLayer_Lib\obj\Debug\ProductDataAccessLayer_Lib.csprojAssemblyReference.cache
+C:\Users\rch9\source\repos\DXCMVCPrj\ProductDataAccessLayer_Lib\obj\Debug\ProductDataAccessLayer_Lib.csproj.CoreCompileInputs.cache
+C:\Users\rch9\source\repos\DXCMVCPrj\ProductDataAccessLayer_Lib\obj\Debug\ProductDataAccessLayer_Lib.csproj.CopyComplete
+C:\Users\rch9\source\repos\DXCMVCPrj\ProductDataAccessLayer_Lib\obj\Debug\ProductDataAccessLayer_Lib.dll
+C:\Users\rch9\source\repos\DXCMVCPrj\ProductDataAccessLayer_Lib\obj\Debug\ProductDataAccessLayer_Lib.pdb

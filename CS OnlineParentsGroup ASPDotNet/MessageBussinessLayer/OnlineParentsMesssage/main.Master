@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="main.master.cs" Inherits="OnlineParentsMesssage.main" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+
+        .auto-style2 {
+            background-color: #66FF33;
+        }
+    </style>
+</head>
+<body>
+    <%--<form id="form4" runat="server">
+        <div>
+            
+        </div>
+    </form>--%>
+    <form id="form1" runat="server">
+        <div>
+            <strong><span class="auto-style2">Online Parents Group-Let Us Talk For Our Kids</span></strong>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

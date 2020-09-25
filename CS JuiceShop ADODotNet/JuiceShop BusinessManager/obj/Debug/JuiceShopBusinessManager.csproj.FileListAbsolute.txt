@@ -1,0 +1,11 @@
+C:\Users\rch9\source\repos\ADOEmpLib\JuiceShopBusinessManager\bin\Debug\JuiceShopBusinessManager.dll
+C:\Users\rch9\source\repos\ADOEmpLib\JuiceShopBusinessManager\bin\Debug\JuiceShopBusinessManager.pdb
+C:\Users\rch9\source\repos\ADOEmpLib\JuiceShopBusinessManager\bin\Debug\JuiceShop.dll
+C:\Users\rch9\source\repos\ADOEmpLib\JuiceShopBusinessManager\bin\Debug\JuiceShopEntities.dll
+C:\Users\rch9\source\repos\ADOEmpLib\JuiceShopBusinessManager\bin\Debug\JuiceShopEntities.pdb
+C:\Users\rch9\source\repos\ADOEmpLib\JuiceShopBusinessManager\bin\Debug\JuiceShop.pdb
+C:\Users\rch9\source\repos\ADOEmpLib\JuiceShopBusinessManager\obj\Debug\JuiceShopBusinessManager.csprojAssemblyReference.cache
+C:\Users\rch9\source\repos\ADOEmpLib\JuiceShopBusinessManager\obj\Debug\JuiceShopBusinessManager.csproj.CoreCompileInputs.cache
+C:\Users\rch9\source\repos\ADOEmpLib\JuiceShopBusinessManager\obj\Debug\JuiceShopBusinessManager.csproj.CopyComplete
+C:\Users\rch9\source\repos\ADOEmpLib\JuiceShopBusinessManager\obj\Debug\JuiceShopBusinessManager.dll
+C:\Users\rch9\source\repos\ADOEmpLib\JuiceShopBusinessManager\obj\Debug\JuiceShopBusinessManager.pdb

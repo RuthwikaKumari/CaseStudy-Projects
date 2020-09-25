@@ -1,0 +1,9 @@
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageDAL\bin\Debug\MessageDAL.dll
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageDAL\bin\Debug\MessageDAL.pdb
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageDAL\bin\Debug\MessageEntities.dll
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageDAL\bin\Debug\MessageEntities.pdb
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageDAL\obj\Debug\MessageDAL.csprojAssemblyReference.cache
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageDAL\obj\Debug\MessageDAL.csproj.CoreCompileInputs.cache
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageDAL\obj\Debug\MessageDAL.csproj.CopyComplete
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageDAL\obj\Debug\MessageDAL.dll
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageDAL\obj\Debug\MessageDAL.pdb

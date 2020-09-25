@@ -1,0 +1,11 @@
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageBussinessLayer\bin\Debug\MessageBussinessLayer.dll
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageBussinessLayer\bin\Debug\MessageBussinessLayer.pdb
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageBussinessLayer\bin\Debug\MessageDAL.dll
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageBussinessLayer\bin\Debug\MessageEntities.dll
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageBussinessLayer\bin\Debug\MessageDAL.pdb
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageBussinessLayer\bin\Debug\MessageEntities.pdb
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageBussinessLayer\obj\Debug\MessageBussinessLayer.csprojAssemblyReference.cache
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageBussinessLayer\obj\Debug\MessageBussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageBussinessLayer\obj\Debug\MessageBussinessLayer.csproj.CopyComplete
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageBussinessLayer\obj\Debug\MessageBussinessLayer.dll
+C:\Users\rch9\source\repos\MessageBussinessLayer\MessageBussinessLayer\obj\Debug\MessageBussinessLayer.pdb

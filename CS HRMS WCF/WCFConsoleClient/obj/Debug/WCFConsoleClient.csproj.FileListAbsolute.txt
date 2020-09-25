@@ -1,0 +1,7 @@
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleClient\bin\Debug\WCFConsoleClient.exe.config
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleClient\bin\Debug\WCFConsoleClient.exe
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleClient\bin\Debug\WCFConsoleClient.pdb
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleClient\obj\Debug\WCFConsoleClient.csprojAssemblyReference.cache
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleClient\obj\Debug\WCFConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleClient\obj\Debug\WCFConsoleClient.exe
+C:\Users\rch9\source\repos\WCFEmpService\WCFConsoleClient\obj\Debug\WCFConsoleClient.pdb
